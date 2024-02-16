@@ -4,18 +4,28 @@
 
 Forest-Fly is a vibrant and eye-catching Visual Studio Code theme inspired by nature's forest hues. It incorporates a rich blend of warm and cool tones, evoking the serene ambiance of a lush forest. It's a nice and minimalistic interface with borderless style (especially for Jupyter Notebook).
 
+The Theme include Three variants for each dark | color theme :
+
+The **Hard** | **Medium** | **Soft** variants, which were computed using the VIM Harry Hopkinson theme.
+
+## Color Palette
+
+The color palette has been computed on the former image using K-MEANS Bisecting algorithm. A python package is in preparation.
+
+![ColorPalette](../Documents/theme_changer/IMAGES/5_palette.png)
+
 ## Preview
 
-| Language   | Light Theme                    | Dark Theme                   |
-| ---------- | ------------------------------ | ---------------------------- |
-| JavaScript | ![Light](javascript-light.png) | ![Dark](javascript-dark.png) |
-| Python     | ![Light](python-light.png)     | ![Dark](python-dark.png)     |
-| HTML       | ![Light](html-light.png)       | ![Dark](html-dark.png)       |
-| CSS        | ![Light](css-light.png)        | ![Dark](css-dark.png)        |
-| Markdown   | ![Light](markdown-light.png)   | ![Dark](markdown-dark.png)   |
-| LateX      | ![Light](ruby-light.png)       | ![Dark](ruby-dark.png)       |
-| Java       | ![Light](java-light.png)       | ![Dark](java-dark.png)       |
-| C++        | ![Light](cpp-light.png)        | ![Dark](cpp-dark.png)        |
+| Language   | Light Theme                     | Dark Theme                    |
+| ---------- | ------------------------------- | ----------------------------- |
+| JavaScript | ![Light](/images/testjsl.png)   | ![Dark](/images/testjs.png)   |
+| Python     | ![Light](/images/testpyl.png)   | ![Dark](/images/testpy.png)   |
+| HTML       | ![Light](/images/testhtmll.png) | ![Dark](/images/testhtml.png) |
+| CSS        | ![Light](/images/testcssl.png)  | ![Dark](/images/testcss.png)  |
+| Markdown   | ![Light](/images/testmdl.png)   | ![Dark](/images/testmd.png)   |
+| LateX      | ![Light](/images/testtexl.png)  | ![Dark](/images/testtex.png)  |
+| Java       | ![Light](/images/testjaval.png) | ![Dark](/images/testjava.png) |
+| C++        | ![Light](/images/testcppl.png)  | ![Dark](/images/testcpp.png)  |
 
 |
 
@@ -37,4 +47,4 @@ This theme is licensed under the [MIT License](LICENSE.md).
 
 ---
 
-Feel free to customize and improve this README according to your project's specifics!
+Feel free to customize and improve this theme according to your specifics!
