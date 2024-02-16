@@ -3,6 +3,8 @@
   "displayName": "FOREST-FLY",
   "description": "FOREST-FLY is a dark vscode theme based on the FOREST-FLY color palette, this is a minimalistic theme that is based on vim theme. It's a great theme for those who love dark themes and want to keep their focus on the code.",
   "version": "0.0.1",
+  "author": "Andrea Combette",
+  "publisher": "AndreaCombette",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -53,5 +55,16 @@
 				"path": "./themes/forestfly-deep-dark.json"
 			}
 		]
+	},
+  "private": false,
+	"__metadata": {
+		"publisherDisplayName": "AndreaCombette",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"pinned": false,
+		"preRelease": false
 	}
+
 }
