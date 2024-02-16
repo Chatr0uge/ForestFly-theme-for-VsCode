@@ -2,7 +2,7 @@
   "name": "FOREST-FLY",
   "displayName": "FOREST-FLY",
   "description": "FOREST-FLY is a dark vscode theme based on the FOREST-FLY color palette, this is a minimalistic theme that is based on vim theme. It's a great theme for those who love dark themes and want to keep their focus on the code.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Andrea Combette",
   "publisher": "AndreaCombette",
   "icon": "images/icon.png",
@@ -13,59 +13,57 @@
     "Themes"
   ],
   "homepage": "https://github.com/Chatr0uge/ForestFly-theme",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Chatr0uge/ForestFly-theme.git"
-	},
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chatr0uge/ForestFly-theme.git"
+  },
   "contributes": {
-		"themes": [
-			{
-				"label": "forestfly Dark Medium",
-				"uiTheme": "vs-dark",
-				"path": "./themes/forestfly-dark-medium.json"
-			},
-			{
-				"label": "forestfly Dark Hard",
-				"uiTheme": "vs-dark",
-				"path": "./themes/forestfly-dark-hard.json"
-			},
-			{
-				"label": "forestfly Dark Soft",
-				"uiTheme": "vs-dark",
-				"path": "./themes/forestfly-dark-soft.json"
-			},
-			{
-				"label": "forestfly Light Medium",
-				"uiTheme": "vs",
-				"path": "./themes/forestfly-light-medium.json"
-			},
-			{
-				"label": "forestfly Light Hard",
-				"uiTheme": "vs",
-				"path": "./themes/forestfly-light-hard.json"
-			},
-			{
-				"label": "forestfly Light Soft",
-				"uiTheme": "vs",
-				"path": "./themes/forestfly-light-soft.json"
-			},
-			{
-				"label": "forestfly Deep Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/forestfly-deep-dark.json"
-			}
-		]
-	},
+    "themes": [
+      {
+        "label": "forestfly Dark Medium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forestfly-dark-medium.json"
+      },
+      {
+        "label": "forestfly Dark Hard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forestfly-dark-hard.json"
+      },
+      {
+        "label": "forestfly Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forestfly-dark-soft.json"
+      },
+      {
+        "label": "forestfly Light Medium",
+        "uiTheme": "vs",
+        "path": "./themes/forestfly-light-medium.json"
+      },
+      {
+        "label": "forestfly Light Hard",
+        "uiTheme": "vs",
+        "path": "./themes/forestfly-light-hard.json"
+      },
+      {
+        "label": "forestfly Light Soft",
+        "uiTheme": "vs",
+        "path": "./themes/forestfly-light-soft.json"
+      },
+      {
+        "label": "forestfly Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forestfly-deep-dark.json"
+      }
+    ]
+  },
   "private": false,
-	"__metadata": {
-		"publisherDisplayName": "AndreaCombette",
-		"targetPlatform": "undefined",
-		"isApplicationScoped": false,
-		"updated": true,
-		"isPreReleaseVersion": false,
-		"pinned": false,
-		"preRelease": false
-	}
-
+  "__metadata": {
+    "publisherDisplayName": "AndreaCombette",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": true,
+    "isPreReleaseVersion": false,
+    "pinned": false,
+    "preRelease": false
+  }
 }
