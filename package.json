@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "author": "Andrea Combette",
   "publisher": "AndreaCombette",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.86.0"
   },
