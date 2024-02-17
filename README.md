@@ -6,7 +6,7 @@ Forest-Fly is a vibrant and eye-catching Visual Studio Code theme inspired by na
 
 The Theme include Three variants for each dark | color theme :
 
-The **Hard** | **Medium** | **Soft** variants, which were computed using the VIM Harry Hopkinson theme.
+The **Hard** | **Medium** | **Soft** variants, which were computed using the forestfly Harry Hopkinson theme.
 
 ## Color Palette
 
