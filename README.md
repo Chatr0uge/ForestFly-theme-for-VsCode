@@ -12,17 +12,16 @@ The **Hard** | **Medium** | **Soft** variants, which were computed using the for
 
 The color palette has been computed on the former image using K-MEANS Bisecting algorithm. A python package is in preparation.
 
-![ColorPalette](../Documents/theme_changer/IMAGES/5_palette.png)
+![ColorPalette](https://raw.githubusercontent.com/Chatr0uge/ForestFly-theme-for-VsCode/main/images/palette.png)
 
 ## Preview
 
-                               | Dark Theme                                                                                                   |
-
-| --------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Soft | ![Light](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/light-soft.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/dark-soft.png) |
-| Medium | ![Light](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/light-medium.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/dark-medium.png) |
-| Hard | ![Light](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/light-hard.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/dark-hard.png) |
-| Deep | SOON | ![Dark](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/dark-deep.png) |
+| Variation | Light Theme                                                                                                   | Dark Theme                                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Soft      | ![Light](https://raw.githubusercontent.com/Chatr0uge/ForestFly-theme-for-VsCode/main/images/light-soft.png)   | ![Dark](https://raw.githubusercontent.com/Chatr0uge/ForestFly-theme-for-VsCode/main/images/dark-soft.png)   |
+| Medium    | ![Light](https://raw.githubusercontent.com/Chatr0uge/ForestFly-theme-for-VsCode/main/images/light-medium.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/ForestFly-theme-for-VsCode/main/images/dark-medium.png) |
+| Hard      | ![Light](https://raw.githubusercontent.com/Chatr0uge/ForestFly-theme-for-VsCode/main/images/light-hard.png)   | ![Dark](https://raw.githubusercontent.com/Chatr0uge/ForestFly-theme-for-VsCode/main/images/dark-hard.png)   |
+| Deep      | SOON                                                                                                          | ![Dark](https://raw.githubusercontent.com/Chatr0uge/ForestFly-theme-for-VsCode/main/images/dark-deep.png)   |
 
 ## Feedback
 
