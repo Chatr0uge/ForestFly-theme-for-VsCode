@@ -16,18 +16,13 @@ The color palette has been computed on the former image using K-MEANS Bisecting 
 
 ## Preview
 
-| Language   | Light Theme                     | Dark Theme                    |
-| ---------- | ------------------------------- | ----------------------------- |
-| JavaScript | ![Light](/images/testjsl.png)   | ![Dark](/images/testjs.png)   |
-| Python     | ![Light](/images/testpyl.png)   | ![Dark](/images/testpy.png)   |
-| HTML       | ![Light](/images/testhtmll.png) | ![Dark](/images/testhtml.png) |
-| CSS        | ![Light](/images/testcssl.png)  | ![Dark](/images/testcss.png)  |
-| Markdown   | ![Light](/images/testmdl.png)   | ![Dark](/images/testmd.png)   |
-| LateX      | ![Light](/images/testtexl.png)  | ![Dark](/images/testtex.png)  |
-| Java       | ![Light](/images/testjaval.png) | ![Dark](/images/testjava.png) |
-| C++        | ![Light](/images/testcppl.png)  | ![Dark](/images/testcpp.png)  |
+                               | Dark Theme                                                                                                   |
 
-|
+| --------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Soft | ![Light](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/light-soft.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/dark-soft.png) |
+| Medium | ![Light](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/light-medium.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/dark-medium.png) |
+| Hard | ![Light](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/light-hard.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/dark-hard.png) |
+| Deep | SOON | ![Dark](https://raw.githubusercontent.com/Chatr0uge/SmoothBurn-theme-for-VsCode/main/images/dark-deep.png) |
 
 ## Feedback
 
